@@ -1,12 +1,5 @@
 {
-    "name": "com.TobeeFansis.MyOdin",
-    "author": "TobeeFansis",
-    "displayName": "MyOdin",
-    "keywords": [
-    ],
-    "dependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/DanilaSak/MyOdin.git"
-    }
+  "name": "com.tobee_fansis.my_odin",
+  "version": "0.1.1",
+  "displayName": "MyOdin"
 }
